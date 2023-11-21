@@ -1,6 +1,6 @@
 #open an existing file for read operation
-# file = open("name.txt", "r") 
-# print (file.read())
+file = open("name.txt", "r") 
+print (file.read())
 #To overwrite an existing data
 # file = open("name.txt", "w") 
 # file.write("I am sai eashwar")
